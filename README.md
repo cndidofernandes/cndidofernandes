@@ -1,0 +1,6 @@
+- 👋 Hi, Welcome, I’m @cndidofernandes
+- 👀 I’m interested in JavaScript, NodeJs, ReactJs, Android (Java and Kotlin)  ...
+- 🌱 I’m currently learning Flutter (Dart)...
+So enjoy and enjoy
+
+
