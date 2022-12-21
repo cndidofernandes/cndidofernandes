@@ -12,15 +12,25 @@ Hi, There! I'm a JavaScript full stack developer (NodeJS and ReactJS). I am curr
 
 #### Tech Stack
 <p align="left">
+ 
+  <a href="https://reactjs.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react" width="40" height="40"/>
+  </a>
+ 
+ <a href="https://nodejs.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/cndidofernandes/imgs/main/node%20(1).png?token=GHSAT0AAAAAAB4RP7YS64Y32XBUOVG5AEOQY5DJGWQ" alt="git" width="124" height="34"/>
+ </a>
+ 
+  <a href="https://nextjs.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/cndidofernandes/imgs/main/next%20(1).png?token=GHSAT0AAAAAAB4RP7YTTRTM6KI3PER3ZTXGY5DJBVA" alt="git" width="124" height="34"/>
+ </a>
 
- <a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <a href="https://www.mongodb.com/" target="_blank">
+  <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://raw.githubusercontent.com/cndidofernandes/imgs/main/MongoDB%20(1).png?token=GHSAT0AAAAAAB4RP7YSEHPC6ELFW2AQOA6QY5DI4WA)" alt="git" width="124" height="34"/>
  </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react" width="40" height="40"/>
+ 
+ <a href="https://www.mysql.com/" target="_blank">
+  <img  src="https://raw.githubusercontent.com/cndidofernandes/imgs/main/mysql%20(1).png?token=GHSAT0AAAAAAB4RP7YTP5AJJVMZUQFS65M6Y5DJBIA" alt="javascript" width="124" height="34"/>
  </a>
  
 </p>
